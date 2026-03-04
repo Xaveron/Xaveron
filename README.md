@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Hi, I'm Xaveron 👾</h1>
+  <h1 align="center">Hi, I'm Eduard 👾</h1>
   <h3 align="center">Future Computer Science Student | Python & C++ Developer | Cybersecurity Enthusiast</h3>
 </p>
 
