@@ -27,7 +27,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xaveron&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Xaveron&show_icons=true&theme=radical" height="165"/>
 </p>
 
 ---
